@@ -103,6 +103,8 @@ random_styles = {
 all_maps = {
     "TD":
     [
+        "Steelcage",
+        "Galleon EX",
         "Bladecity",
         "Ironheart",
         "Neden-1",
@@ -129,6 +131,7 @@ all_maps = {
         "Colosseum"
     ],
     "Siege": [
+        "Sector-R",
         "Bladecity",
         "Skyline",
         "Ironheart"
@@ -165,6 +168,7 @@ all_maps = {
     ],
     "Chaser": [
         "Alice House",
+        "Galleon EX",
         "Xenotron Cluster",
         "Grave",
         "Nightmare",
@@ -185,6 +189,7 @@ all_maps = {
         "Dust 2"
     ],
     "Captain": [
+        "Spade A",
         "Azit-EX",
         "Nightmare",
         "OldMoon"
