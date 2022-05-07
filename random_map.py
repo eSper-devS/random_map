@@ -137,6 +137,7 @@ all_maps = {
         "Ironheart"
     ],
     "DM": [
+        "Cyberion",
         "Xenotron Cluster",
         "OldMoon",
         "City Square-2",
@@ -193,6 +194,13 @@ all_maps = {
         "Azit-EX",
         "Nightmare",
         "OldMoon"
+    ]
+}
+fun_maps = {
+    "Chaser": [
+        "Alice House",
+        "Circle-2",
+        "BlockBuster"
     ]
 }
 
