@@ -137,6 +137,8 @@ all_maps = {
         "Ironheart"
     ],
     "DM": [
+        "Data Harvest",
+        "The Longest Yard",
         "Cyberion",
         "Xenotron Cluster",
         "OldMoon",
@@ -169,6 +171,7 @@ all_maps = {
     ],
     "Chaser": [
         "Alice House",
+        "The Longest Yard",
         "Galleon EX",
         "Xenotron Cluster",
         "Grave",
@@ -180,6 +183,8 @@ all_maps = {
         "Office"
     ],
     "BR": [
+        "Data Harvest",
+        "The Longest Yard",
         "Xenotron Cluster",
         "City Square-2",
         "Ziggurat",
@@ -190,6 +195,7 @@ all_maps = {
         "Dust 2"
     ],
     "Captain": [
+        "The Longest Yard",
         "Spade A",
         "Azit-EX",
         "Nightmare",
