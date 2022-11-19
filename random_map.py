@@ -4,9 +4,11 @@ import json
 import random
 from os import system
 
+
 def save(maps, style):
     with open('random_map_' + style + '.json', 'w') as f:
         f.write(json.dumps(maps))
+
 
 def load(style):
     try:
@@ -14,6 +16,7 @@ def load(style):
             return json.loads(f.read())
     except FileNotFoundError:
         print("Could not load random_map.json")
+
 
 def random_style_mode():
     map_data = load('mode')
@@ -55,12 +58,6 @@ def random_style_mode():
                 if len(maps[mode]) == 0:
                     print(f"Queue for {mode} is empty, refilling it...")
                     maps[mode] = random.sample(all_maps[mode], len(all_maps[mode]))
-
-                #try:
-                #    maps[mode].remove(chosen_map)
-                #    print(f"Map removed from {mode} queue as well...")
-                #except ValueError:
-                #    pass
 
             input()
 
@@ -202,13 +199,6 @@ all_maps = {
         "OldMoon"
     ]
 }
-fun_maps = {
-    "Chaser": [
-        "Alice House",
-        "Circle-2",
-        "BlockBuster"
-    ]
-}
 
 system('clear')
 print("Choose random style:\n")
@@ -217,7 +207,7 @@ for style in random_styles:
     print(style)
 
 while True:
-    random_style = input(f"> ")
+    random_style = input("> ")
     if random_style in random_styles:
         break
 
