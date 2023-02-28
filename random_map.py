@@ -100,6 +100,7 @@ random_styles = {
 all_maps = {
     "TD":
     [
+        "PlayField (16)",
         "SteelCage (16)",
         "Galleon EX (16)",
         "Bladecity (16)",
@@ -128,7 +129,10 @@ all_maps = {
         "Colosseum (16)"
     ],
     "DM": [
-        "Neden-2 (16)",
+        "Beach (12)",
+        "Stadium City (16)",
+        "Airship Cafe (8)",
+        "Neden-2 W (16)",
         "Azit-O (8)",
         "Data Harvest (16)",
         "The Longest Yard (16)",
@@ -159,9 +163,12 @@ all_maps = {
         "Circle-1 (12)",
         "Highway (16)",
         "Neden-3 (12)",
+        "Neden-2 (12)",
         "Neden-1 (12)"
     ],
     "Chaser": [
+        "Airship Cafe (10)",
+        "Cylot (12)",
         "OldMoon (16)",
         "Mansion Grounds (16)",
         "The Longest Yard (16)",
@@ -177,6 +184,9 @@ all_maps = {
         "Office (12)"
     ],
     "BR": [
+        "Stadium City (16)",
+        "Beach (12)",
+        "Lost Salvage (16)",
         "OldMoon (16)",
         "Mansion Grounds (16)",
         "Data Harvest (16)",
@@ -200,6 +210,7 @@ all_maps = {
         "Neden-1 (16)"
     ],
     "Siege": [
+        "Lost Salvage (16)",
         "Sector-R (16)",
         "Bladecity (16)",
         "Skyline (16)",
