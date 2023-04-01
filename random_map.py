@@ -129,6 +129,7 @@ all_maps = {
         "Colosseum (16)"
     ],
     "DM": [
+        "Cylot (10)",
         "Beach (12)",
         "Stadium City (16)",
         "Airship Cafe (8)",
@@ -184,6 +185,7 @@ all_maps = {
         "Office (12)"
     ],
     "BR": [
+        "Temple-R (16)",
         "Stadium City (16)",
         "Beach (12)",
         "Lost Salvage (16)",
