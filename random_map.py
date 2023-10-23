@@ -212,6 +212,7 @@ all_maps = {
         "Neden-1 (16)"
     ],
     "Siege": [
+        "Terminal-109 (16)",
         "Lost Salvage (16)",
         "Sector-R (16)",
         "Bladecity (16)",
