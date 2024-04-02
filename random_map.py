@@ -129,6 +129,7 @@ all_maps = {
         "Colosseum (16)"
     ],
     "DM": [
+        "Bamboo Forest (12)",
         "Cylot (10)",
         "Beach (12)",
         "Stadium City (16)",
@@ -168,6 +169,7 @@ all_maps = {
         "Neden-1 (12)"
     ],
     "Chaser": [
+        "Bamboo Forest (12)",
         "Airship Cafe (10)",
         "Cylot (12)",
         "OldMoon (16)",
