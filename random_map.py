@@ -100,6 +100,7 @@ random_styles = {
 all_maps = {
     "TD":
     [
+        "Miniway (12)",
         "PlayField (16)",
         "SteelCage (16)",
         "Galleon EX (16)",
@@ -129,6 +130,7 @@ all_maps = {
         "Colosseum (16)"
     ],
     "DM": [
+        "Neden-1 H (16)",
         "Bamboo Forest (12)",
         "Cylot (10)",
         "Beach (12)",
@@ -187,6 +189,7 @@ all_maps = {
         "Office (12)"
     ],
     "BR": [
+        "Neden-1 H (16)",
         "Temple-R (16)",
         "Stadium City (16)",
         "Beach (12)",
