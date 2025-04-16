@@ -100,7 +100,8 @@ random_styles = {
 all_maps = {
     "TD":
     [
-        "Miniway (12)",
+        "Station-2 OS (16)",
+        "Miniway (16)",
         "PlayField (16)",
         "SteelCage (16)",
         "Galleon EX (16)",
